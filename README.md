@@ -14,3 +14,5 @@ Rede social com o intuito de divulgar projetos pessoais e até mesmo profissiona
 ![plot](assets/imgs/Capture.PNG)
 ### Sign In
 ![plot](assets/imgs/signin.PNG)
+### Perfil
+![plot](assets/imgs/perfil.PNG)
