@@ -10,7 +10,7 @@
 <img src = "https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fhenriquesoubhia.github.io%2F2emia-projeto%2F" alt="HTML válido!" />
 
 
-# 2emia-projeto-rede-social
+# Hubber
 Rede social com o intuito de divulgar projetos pessoais e até mesmo profissionais
 
 ## Autores 
