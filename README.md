@@ -9,3 +9,5 @@ Rede social com o intuito de divulgar projetos pessoais e até mesmo profissiona
 - Francisco Ferrara
 - Eduardo Gomes
 - Gabriel Francisco
+
+![plot](assets/imgs/Logo.png)
