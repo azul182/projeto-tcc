@@ -12,7 +12,8 @@
 
 # 2emia-projeto-rede-social
 Rede social com o intuito de divulgar projetos pessoais e até mesmo profissionais
-## Autores
+
+## Autores 
 - `Henrique Soubhia` *
 - Thiago Mendes
 - Francisco Ferrara
