@@ -11,3 +11,5 @@ Rede social com o intuito de divulgar projetos pessoais e até mesmo profissiona
 - Gabriel Francisco
 ### Logo 
 ![plot](assets/imgs/Logo.png)
+###
+![plot](assets/imgs/Capture.png)
